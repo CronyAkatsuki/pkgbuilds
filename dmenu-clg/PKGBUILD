@@ -1,6 +1,6 @@
 _pkgname=dmenu-clg
 pkgname=$_pkgname
-pkgver=5.0.0.g77b2a1c
+pkgver=5.0.5.gccc20e2
 pkgrel=1
 pkgdesc="A generic menu for X"
 url="http://tools.suckless.org/dmenu/"
